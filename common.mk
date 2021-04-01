@@ -212,6 +212,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service \
     fingerprintd \
+    OnePlusPocketMode
 
 # For android_filesystem_config.h
 PRODUCT_PACKAGES += \
